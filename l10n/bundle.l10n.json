@@ -1,4 +1,8 @@
 {
+  "extension.displayName": "Kasoku",
+  "extension.description": "Accelerate your development workflow with productivity-boosting features",
+  "command.copyRelativePathWithLine": "Copy Relative Path with Line Number",
+  "command.copyAbsolutePathWithLine": "Copy Absolute Path with Line Number",
   "No active editor": "No active editor",
   "Cannot copy path for unsaved file. Please save the file first.": "Cannot copy path for unsaved file. Please save the file first.",
   "Copied: {0}": "Copied: {0}",

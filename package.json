@@ -2,7 +2,7 @@
   "name": "kasoku",
   "displayName": "%extension.displayName%",
   "description": "%extension.description%",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "kikakugai",
   "repository": {
     "type": "git",
@@ -12,6 +12,7 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "activationEvents": [],
   "categories": [
     "Other"
   ],
